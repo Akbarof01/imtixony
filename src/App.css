@@ -1,0 +1,54 @@
+.input_box {
+  display: flex;
+  justify-content: center;
+  margin-top: 104px;
+}
+
+.INPUT {
+  border: 1px solID #3E1671;
+  background-color: #0D0714;
+  width: 392PX;
+  height: 40px;
+  padding-left: 15px;
+  border-radius: 10px;
+  margin-right: 11px;
+  color: #fff;
+
+}
+
+.plus {
+  width: 40px;
+  height: 40px;
+  background-color: #9E78CF;
+  border-radius: 10px;
+  border: none;
+  color: #fff;
+  font-size: 28px;
+}
+
+.Task_container{
+  display: flex;
+  justify-content: center;
+  margin-top: 59px;
+}
+.Task{
+  color: #fff;
+  margin-left: 470px;
+  margin-top: 30px;
+  font-size: 30px;
+  font-weight: 500;
+}
+ul{
+  list-style-type: none;
+  margin-left: 600px;
+  margin-top: 50px;
+}
+li{
+  color: #fff;
+
+}
+.done,.trash{
+  border: none;
+  margin-left: 15px ;
+  margin-top: 10px;
+}
